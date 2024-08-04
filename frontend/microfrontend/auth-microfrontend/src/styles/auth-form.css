@@ -1,0 +1,15 @@
+@import url('src/styles/__titles/__title/auth-form__title.css');
+@import url('src/styles/__formes/__form/auth-form__form.css');
+@import url('src/styles/__inputs/__input/auth-form__input.css');
+@import url('src/styles/__textfieldtextfield/auth-form__textfield.css');
+@import url('src/styles/__button/__button/auth-form__button.css');
+@import url('src/styles/__textes/__text/auth-form__text.css');
+@import url('src/styles/__linkes/__link/auth-form__link.css');
+
+.auth-form {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
